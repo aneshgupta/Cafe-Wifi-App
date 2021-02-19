@@ -1,0 +1,97 @@
+[
+  {
+    "id": 0,
+    "title": "cappuccino",
+    "offerPrice": "150",
+    "price": "180",
+    "rating": "4.5",
+    "img":
+      "https://image.shutterstock.com/image-photo/hot-coffee-cappuccino-latte-art-600w-1018446595.jpg",
+    "desc":
+      "A cappuccino is an espresso-based coffee drink that originated in Italy, and is traditionally prepared with steamed milk foam",
+    "seller": "RioTech"
+  },
+  {
+    "id": 1,
+    "title": "Pizza",
+    "offerPrice": "320",
+    "price": "350",
+    "rating": "4.5",
+    "img":
+      "https://image.shutterstock.com/image-photo/supreme-pizza-lifted-slice-1-260nw-84904912.jpg",
+    "desc":
+      "Pizza is a savory dish of Italian origin consisting of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients, which is then baked at a high temperature, traditionally in a wood-fired oven. A small pizza is sometimes called a pizzetta",
+    "seller": "Apple Store"
+  },
+  {
+    "id": 3,
+    "title": "Burger",
+    "offerPrice": "90",
+    "price": "120",
+    "rating": "4.3",
+    "img":
+      "https://image.shutterstock.com/image-photo/delicious-grilled-burgers-600w-1146199442.jpg",
+    "desc":
+      "A hamburger is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun. The patty may be pan fried, grilled, smoked or flame broiled",
+    "seller": "Realme"
+  },
+  {
+    "id": 4,
+    "title": "Sandwich",
+    "offerPrice": "140",
+    "price": "200",
+    "rating": "4.4",
+    "img":
+      "https://image.shutterstock.com/image-photo/grilled-bacon-mozzarella-sandwiches-on-600w-770555791.jpg",
+    "desc":
+      "A sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread, or more generally any dish wherein bread serves as a container or wrapper for another food type.",
+    "seller": "DA electronics"
+  },
+  {
+    "id": 5,
+    "title": "Pastries",
+    "offerPrice": "50",
+    "price": "60",
+    "rating": "4.6",
+    "img": "https://image.shutterstock.com/image-photo/various-slices-cakes-on-white-600w-1007816050.jpg",
+    "desc":
+      "Pastry is a dough of flour, water and shortening that may be savoury or sweetened. Sweetened pastries are often described as bakers' confectionery.",
+    "seller": "Semicolon"
+  },
+  {
+    "id": 6,
+    "title": "Cold Coffee",
+    "offerPrice": "90",
+    "price": "100",
+    "rating": "4.5",
+    "img":
+      "https://image.shutterstock.com/image-photo/caramel-frappe-coffee-shop-bangkok-600w-375294964.jpg",
+    "desc":
+      "Iced coffee is a type of coffee beverage served chilled, brewed variously with the fundamental division being cold brew – brewing the coffee cold, yielding a different flavor, and not requiring cooling – or brewing normally and then cooling, generally by simply pouring over ice or into ice cold milk",
+    "seller": "Vivo Mobiles"
+  },
+  {
+    "id": 7,
+    "title": "Spring Rolls",
+    "offerPrice": "199",
+    "price": "230",
+    "rating": "4.4",
+    "img":
+      "https://image.shutterstock.com/image-photo/fried-spring-rolls-red-white-260nw-639665887.jpg",
+    "desc":
+      "Spring rolls are a large variety of filled, rolled appetizers or dim sum found in East Asian, South Asian, Middle Eastern and Southeast Asian cuisine. The name is a literal translation of the Chinese chūn juǎn",
+    "seller": "Mad Semicolon"
+  },
+  {
+    "id": 8,
+    "title": "French Fries",
+    "offerPrice": "120",
+    "price": "150",
+    "rating": "4.6",
+    "img":
+      "https://image.shutterstock.com/image-photo/french-fries-600w-510881971.jpg",
+    "desc":
+      "French fries, or simply fries, chips, finger chips, or French-fried potatoes, are batonnet or allumette-cut deep-fried potatoes.",
+    "seller": "RioTech"
+  }
+]

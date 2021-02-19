@@ -1,0 +1,26 @@
+#header-img {
+    display: block;
+    max-width: 100px;
+    margin: auto;
+    padding-top: 20px; 
+  }
+.promo-container {
+    position: relative;
+    width: 80%;
+    height: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .promo-title {
+    font-size: 2.5rem;
+    position: relative;
+    width: 100%;
+    line-height: 1em;
+    text-transform: uppercase;
+  }
+  
+  span {
+    display: block;
+  }
